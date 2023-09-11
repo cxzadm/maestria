@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.10)  10 SEP 2023 20:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.10)  10 SEP 2023 20:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -353,10 +353,10 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
  (main.aux
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `main.aux'.
 
@@ -426,11 +426,15 @@ Overfull \hbox (7.26385pt too wide) in paragraph at lines 46--49
 
 [1
 
-{C:/Users/cx_bc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo UPS.png> <./Posgrados.png>] (main.bbl) [2] (main.aux
+{C:/Users/cx_bc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo UPS.png> <./Posgrados.png>] [2] (main.bbl
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [3] (main.aux
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
 )
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -438,17 +442,17 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14322 strings out of 475248
- 302431 string characters out of 5757813
- 1924801 words of memory out of 5000000
- 35623 multiletter control sequences out of 15000+600000
- 559926 words of font info for 42 fonts, out of 8000000 for 9000
+ 14321 strings out of 475248
+ 302440 string characters out of 5757813
+ 1928801 words of memory out of 5000000
+ 35622 multiletter control sequences out of 15000+600000
+ 559888 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,7n,107p,482b,378s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (2 pages, 97839 bytes).
+ 102i,7n,107p,825b,378s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (3 pages, 102172 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 38 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  23 words of extra memory for PDF output out of 10000 (max. 10000000)
 

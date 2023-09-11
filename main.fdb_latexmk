@@ -1,23 +1,23 @@
 # Fdb version 4
-["bibtex main"] 1694393479 "main.aux" "main.bbl" "main" 1694394872 0
+["bibtex main"] 1694397004 "main.aux" "main.bbl" "main" 1694397006 0
   "./sample.bib" 1689863216 224 25714b87abc5a3a7a963e03cc25e462f ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/abbrv.bst" 1291864736 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "main.aux" 1694394871 1216 ff853975c149e6d0a8f52e45b30a71c7 "pdflatex"
+  "main.aux" 1694397005 1042 db511cc79ab3db490484f20d8ffb4316 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1694394870 "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" "main.pdf" "main" 1694394872 0
+["pdflatex"] 1694397004 "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" "main.pdf" "main" 1694397006 0
   "C:/Users/cx_bc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1694393472 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/cx_bc/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1694393218 24142036 8ba0db67502d421f162d93c149e5c259 ""
+  "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
-  "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
-  "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1693303475 147701 65923c3ddeaf8cd564682e9b3a5028d2 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1693303475 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
@@ -111,11 +111,11 @@
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Posgrados.png" 1689863216 22697 443fcda41fd2efb3919af04ae67802fa ""
-  "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" 1694394868 3038 4699d7ffb0d0324649a29c650d6f7663 ""
+  "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" 1694397001 7566 baaa99e8f84cba5c627ad27ffaf1a6fe ""
   "logo UPS.png" 1689863216 9327 712802ba714f3f49573442564f985db9 ""
-  "main.aux" 1694394871 1216 ff853975c149e6d0a8f52e45b30a71c7 "pdflatex"
-  "main.bbl" 1694393479 277 fbe3978618c7a87a1bd65b7634fb5e0f "bibtex main"
-  "main.tex" 1694394868 3038 4699d7ffb0d0324649a29c650d6f7663 ""
+  "main.aux" 1694397005 1042 db511cc79ab3db490484f20d8ffb4316 "pdflatex"
+  "main.bbl" 1694397004 52 0eba253fc001332e731e8aba3f23127b "bibtex main"
+  "main.tex" 1694397001 7566 baaa99e8f84cba5c627ad27ffaf1a6fe ""
   (generated)
   "main.aux"
   "main.log"
