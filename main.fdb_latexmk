@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1694397004 "main.aux" "main.bbl" "main" 1694397006 0
+["bibtex main"] 1694397004 "main.aux" "main.bbl" "main" 1694398886 0
   "./sample.bib" 1689863216 224 25714b87abc5a3a7a963e03cc25e462f ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/abbrv.bst" 1291864736 20329 b5fed53e10044d0f8112183785c759b1 ""
-  "main.aux" 1694397005 1042 db511cc79ab3db490484f20d8ffb4316 "pdflatex"
+  "main.aux" 1694398885 1042 db511cc79ab3db490484f20d8ffb4316 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1694397004 "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" "main.pdf" "main" 1694397006 0
+["pdflatex"] 1694398884 "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" "main.pdf" "main" 1694398886 0
   "C:/Users/cx_bc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1694393472 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/cx_bc/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1694393218 24142036 8ba0db67502d421f162d93c149e5c259 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -111,11 +111,11 @@
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/cx_bc/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Posgrados.png" 1689863216 22697 443fcda41fd2efb3919af04ae67802fa ""
-  "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" 1694397001 7566 baaa99e8f84cba5c627ad27ffaf1a6fe ""
+  "d:/disco/Documentos/Universidad/Maestria/Tesis/Anteproyecto/maestria/main.tex" 1694398882 8319 19c9cabb289e53d0cf7f6be10efe69a1 ""
   "logo UPS.png" 1689863216 9327 712802ba714f3f49573442564f985db9 ""
-  "main.aux" 1694397005 1042 db511cc79ab3db490484f20d8ffb4316 "pdflatex"
+  "main.aux" 1694398885 1042 db511cc79ab3db490484f20d8ffb4316 "pdflatex"
   "main.bbl" 1694397004 52 0eba253fc001332e731e8aba3f23127b "bibtex main"
-  "main.tex" 1694397001 7566 baaa99e8f84cba5c627ad27ffaf1a6fe ""
+  "main.tex" 1694398882 8319 19c9cabb289e53d0cf7f6be10efe69a1 ""
   (generated)
   "main.aux"
   "main.log"
