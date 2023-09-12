@@ -1,25 +1,23 @@
 # Fdb version 4
-["bibtex main"] 1694498921 "main.aux" "main.bbl" "main" 1694498923 0
+["bibtex main"] 1694499406 "main.aux" "main.bbl" "main" 1694499409 0
   "./sample.bib" 1694498280 242 2ab1e5979dcb9238fb86ca0d4d3ef8d8 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "main.aux" 1694498923 1521 0ab874ff1e819938b8b5539d70955e7b "pdflatex"
+  "main.aux" 1694499408 1352 f77927a1d48b3bf32483502bda5d45b4 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1694498922 "e:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" "main.pdf" "main" 1694498923 0
+["pdflatex"] 1694499407 "e:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" "main.pdf" "main" 1694499409 0
   "C:/Users/bryam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1694498763 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/bryam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1694496270 24142036 681222150681e5cb85a7c0cc4a34dba0 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
-  "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247596667 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
-  "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1693303475 147701 65923c3ddeaf8cd564682e9b3a5028d2 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/es/babel-es.ini" 1693303475 4345 33a8cc6f0a7c6afcb84895b2c963a4e5 ""
@@ -115,11 +113,11 @@
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Posgrados.png" 1694496190 22697 443fcda41fd2efb3919af04ae67802fa ""
-  "e:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" 1694498920 9362 876e10dbb60e3091a6fc6308f5ddece0 ""
+  "e:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" 1694499403 9345 eae0101d8401dc5735b205f0fb7419e6 ""
   "logo UPS.png" 1694496190 9327 712802ba714f3f49573442564f985db9 ""
-  "main.aux" 1694498923 1521 0ab874ff1e819938b8b5539d70955e7b "pdflatex"
-  "main.bbl" 1694498922 628 9a6f6f2c8697838de082491f16122b61 "bibtex main"
-  "main.tex" 1694498920 9362 876e10dbb60e3091a6fc6308f5ddece0 ""
+  "main.aux" 1694499408 1352 f77927a1d48b3bf32483502bda5d45b4 "pdflatex"
+  "main.bbl" 1694499407 52 0eba253fc001332e731e8aba3f23127b "bibtex main"
+  "main.tex" 1694499403 9345 eae0101d8401dc5735b205f0fb7419e6 ""
   (generated)
   "main.aux"
   "main.log"
