@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1694499789 "main.aux" "main.bbl" "main" 1694499791 0
+["bibtex main"] 1694564498 "main.aux" "main.bbl" "main" 1694564652 0
   "./sample.bib" 1694498280 242 2ab1e5979dcb9238fb86ca0d4d3ef8d8 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "main.aux" 1694499790 1521 0ab874ff1e819938b8b5539d70955e7b "pdflatex"
+  "main.aux" 1694564651 2194 3f1226f2684b44196b38c2e084a6ca0c "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1694499789 "e:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" "main.pdf" "main" 1694499791 0
+["pdflatex"] 1694564650 "d:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" "main.pdf" "main" 1694564652 0
   "C:/Users/bryam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1694498763 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/bryam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1694496270 24142036 681222150681e5cb85a7c0cc4a34dba0 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -115,11 +115,12 @@
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Posgrados.png" 1694496190 22697 443fcda41fd2efb3919af04ae67802fa ""
-  "e:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" 1694499784 9362 876e10dbb60e3091a6fc6308f5ddece0 ""
+  "d:/disco/documentos/Maestria/Maestria Software/03 Metodología de la Investigacion/anteproyecto/maestria/main.tex" 1694564648 12255 61ffdbb9eb837c0e2172f42bba945b4d ""
   "logo UPS.png" 1694496190 9327 712802ba714f3f49573442564f985db9 ""
-  "main.aux" 1694499790 1521 0ab874ff1e819938b8b5539d70955e7b "pdflatex"
-  "main.bbl" 1694499789 628 9a6f6f2c8697838de082491f16122b61 "bibtex main"
-  "main.tex" 1694499784 9362 876e10dbb60e3091a6fc6308f5ddece0 ""
+  "main.aux" 1694564651 2194 3f1226f2684b44196b38c2e084a6ca0c "pdflatex"
+  "main.bbl" 1694564498 628 9a6f6f2c8697838de082491f16122b61 "bibtex main"
+  "main.tex" 1694564648 12255 61ffdbb9eb837c0e2172f42bba945b4d ""
+  "med.png" 1694564071 125524 d85d498ca1eee3a7b51e277c9de96748 ""
   (generated)
   "main.aux"
   "main.log"
