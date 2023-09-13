@@ -1,6 +1,6 @@
-PWD d:\disco\documentos\Maestria\Maestria Software\03 Metodología de la Investigacion\anteproyecto\maestria
+PWD d:\disco\documentos\Maestria\Maestria Software\03 METODOLOGÍA DE LA INVESTIGACIÓN\anteproyecto\maestria
 INPUT C:\Users\bryam\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\disco\documentos\Maestria\Maestria Software\03 Metodología de la Investigacion\anteproyecto\maestria\main.tex
+INPUT d:\disco\documentos\Maestria\Maestria Software\03 METODOLOGÍA DE LA INVESTIGACIÓN\anteproyecto\maestria\main.tex
 OUTPUT main.log
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -24,6 +24,8 @@ INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\b
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\apacite\apacite.sty
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\apacite\apacite.sty
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
@@ -142,12 +144,29 @@ INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgf
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybackgrounds.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybackgrounds.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.sty
@@ -204,6 +223,8 @@ INPUT .\med.png
 INPUT .\med.png
 INPUT .\med.png
 INPUT .\med.png
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx9.tfm
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT .\main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
@@ -213,9 +234,13 @@ INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\bryam\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
