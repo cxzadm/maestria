@@ -5,6 +5,8 @@
 \usepackage[spanish,mexico]{babel}
 \usepackage{apacite}
 \usepackage{pgfgantt}
+\usepackage{pgfcalendar}
+
 
 \bibliographystyle{apacite}
 \setlength{\textwidth}{18cm}
@@ -13,8 +15,8 @@
 \setlength{\voffset}{0cm}
 \setlength{\topmargin}{0cm}
 \setlength{\headheight}{0cm}
+
 \usepackage{tikz}
-\usetikzlibrary{calc,arrows}
 \usepackage{multicol}
 \usepackage{lipsum} 
 %\bibliographystyle{apacite}
@@ -169,11 +171,10 @@ Para alcanzar el cuarto objetivo específico, que consiste en realizar pruebas d
 
 En esta sección se presenta el cronograma de actividades planificado para el desarrollo del proyecto. El cronograma detalla las tareas a realizar, los responsables de cada tarea y las fechas de inicio y finalización.
 
-
 \begin{ganttchart}[
     hgrid,
     vgrid,
-    x unit=0.1cm, % Ajusta este valor según tu preferencia
+    x unit=0.07cm, % Ajusta este valor según tu preferencia
     time slot format=isodate,
     time slot unit=day,
     vrule/.style={red, dashed, thick},
@@ -188,10 +189,13 @@ En esta sección se presenta el cronograma de actividades planificado para el de
     milestone height=0.8, % Altura de los hitos
     milestone label font=\small,
     bar top shift=0.2, % Ajusta la posición vertical de las tareas
-    bar/.append style={draw=none, fill=blue!50}, % Estilo de las barras
+    bar/.append style={draw=none, fill=blue!90}, % Estilo de las barras
     milestone/.append style={draw=none, fill=red}, % Estilo de los hitos
-    ]{2023-10-01}{2024-01-31}
-    \gantttitlecalendar{year, month=name, day} \\
+    ]{2023-10-01}{2024-03-31}
+    
+    % Cambia las fechas a semanas
+    \gantttitlecalendar{year, month=week} \\
+    
     \ganttbar{Reuniones iniciales}{2023-10-01}{2023-10-07} \\
     \ganttbar{Análisis de requerimientos}{2023-10-08}{2023-10-14} \\
     \ganttbar{Planificación del desarrollo}{2023-10-15}{2023-10-21} \\
@@ -203,11 +207,10 @@ En esta sección se presenta el cronograma de actividades planificado para el de
     \ganttbar{Presentación del proyecto}{2023-11-26}{2023-12-02} \\
     \ganttnewline[thick, blue]
     
-    \ganttbar{Reuniones semanales}{2023-10-07}{2023-12-02} \\
-    \ganttbar{Revisión intermedia}{2023-11-18}{2023-11-18} \\
-    \ganttbar{Presentación final}{2023-12-02}{2023-12-02} \\
+    \ganttbar{Reuniones semanales}{2023-10-01}{2023-12-02} \\
+    \ganttbar{Revisión intermedia}{2023-11-12}{2023-11-18} \\
+    \ganttbar{Presentación final}{2023-12-01}{2024-03-31} \\
 \end{ganttchart}
-
 
 \section{Presupuesto: (Opcional)}
 
