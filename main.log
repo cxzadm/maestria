@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  16 SEP 2023 16:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.16)  12 OCT 2023 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,10 +321,48 @@ File: pgfcalendar.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \gtt@calendar@startofweek=\count308
 \gtt@left@slot=\count309
 \gtt@right@slot=\count310
-) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.callouts.code.tex (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.callouts.code.tex)) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+ (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodepartlowerbox=\box64
+\pgfnodeparttwobox=\box65
+\pgfnodepartthreebox=\box66
+\pgfnodepartfourbox=\box67
+\pgfnodeparttwentybox=\box68
+\pgfnodepartnineteenbox=\box69
+\pgfnodeparteighteenbox=\box70
+\pgfnodepartseventeenbox=\box71
+\pgfnodepartsixteenbox=\box72
+\pgfnodepartfifteenbox=\box73
+\pgfnodepartfourteenbox=\box74
+\pgfnodepartthirteenbox=\box75
+\pgfnodeparttwelvebox=\box76
+\pgfnodepartelevenbox=\box77
+\pgfnodeparttenbox=\box78
+\pgfnodepartninebox=\box79
+\pgfnodeparteightbox=\box80
+\pgfnodepartsevenbox=\box81
+\pgfnodepartsixbox=\box82
+\pgfnodepartfivebox=\box83
+))) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count311
-\mult@box=\box64
+\mult@box=\box84
 \multicol@leftmargin=\dimen195
 \c@unbalance=\count312
 \c@collectmore=\count313
@@ -337,34 +375,14 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \postmulticols=\dimen199
 \multicolsep=\skip55
 \multicolbaselineskip=\skip56
-\partial@page=\box65
-\last@line=\box66
-\mc@boxedresult=\box67
+\partial@page=\box85
+\last@line=\box86
+\mc@boxedresult=\box87
 \maxbalancingoverflow=\dimen256
-\mult@rightbox=\box68
-\mult@grightbox=\box69
-\mult@firstbox=\box70
-\mult@gfirstbox=\box71
-\@tempa=\box72
-\@tempa=\box73
-\@tempa=\box74
-\@tempa=\box75
-\@tempa=\box76
-\@tempa=\box77
-\@tempa=\box78
-\@tempa=\box79
-\@tempa=\box80
-\@tempa=\box81
-\@tempa=\box82
-\@tempa=\box83
-\@tempa=\box84
-\@tempa=\box85
-\@tempa=\box86
-\@tempa=\box87
-\@tempa=\box88
-\@tempa=\box89
-\@tempa=\box90
-\@tempa=\box91
+\mult@rightbox=\box88
+\mult@grightbox=\box89
+\mult@firstbox=\box90
+\mult@gfirstbox=\box91
 \@tempa=\box92
 \@tempa=\box93
 \@tempa=\box94
@@ -381,21 +399,42 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box105
 \@tempa=\box106
 \@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
 \c@minrows=\count317
 \c@columnbadness=\count318
 \c@finalcolumnbadness=\count319
 \last@try=\dimen257
 \multicolovershoot=\dimen258
 \multicolundershoot=\dimen259
-\mult@nat@firstbox=\box108
-\colbreak@box=\box109
+\mult@nat@firstbox=\box128
+\colbreak@box=\box129
 \mc@col@check@num=\count320
-) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+) (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+(C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2023-08-29 L3 programming layer (loader) 
  (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count321
-\l__pdf_internal_box=\box110
+\l__pdf_internal_box=\box130
 ))
 Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
 )
@@ -404,32 +443,32 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_a_int=\count323
 \l__lipsum_b_int=\count324
  (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
  (main.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Info: Redefining \. on input line 27.
-LaTeX Info: Redefining \% on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Info: Redefining \. on input line 32.
+LaTeX Info: Redefining \% on input line 32.
 \c@maskedRefs=\count325
  (C:\Users\bryam\AppData\Local\Programs\MiKTeX\tex/latex/apacite\spanish.apc
 File: spanish.apc 2013/07/21 v6.03 apacite language file
@@ -439,7 +478,7 @@ LaTeX Info: Redefining \BHBI on input line 139.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count326
 \scratchdimen=\dimen260
-\scratchbox=\box111
+\scratchbox=\box131
 \nofMPsegments=\count327
 \nofMParguments=\count328
 \everyMPshowfont=\toks33
@@ -457,45 +496,45 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 <logo UPS.png, id=4, 411.5375pt x 123.46124pt>
 File: logo UPS.png Graphic file (type png)
 <use logo UPS.png>
-Package pdftex.def Info: logo UPS.png  used on input line 48.
+Package pdftex.def Info: logo UPS.png  used on input line 53.
 (pdftex.def)             Requested size: 144.54pt x 43.3609pt.
 
-Overfull \hbox (118.93095pt too wide) in paragraph at lines 48--48
+Overfull \hbox (118.93095pt too wide) in paragraph at lines 53--53
  []
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 53.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 53.
 <Posgrados.png, id=5, 368.87813pt x 158.84344pt>
 File: Posgrados.png Graphic file (type png)
 <use Posgrados.png>
-Package pdftex.def Info: Posgrados.png  used on input line 48.
+Package pdftex.def Info: Posgrados.png  used on input line 53.
 (pdftex.def)             Requested size: 144.54pt x 62.23953pt.
 
-Overfull \hbox (118.93095pt too wide) in paragraph at lines 48--48
+Overfull \hbox (118.93095pt too wide) in paragraph at lines 53--53
 []  
  []
 
 
-Overfull \hbox (7.26385pt too wide) in paragraph at lines 52--55
+Overfull \hbox (7.26385pt too wide) in paragraph at lines 57--60
 [][]
  []
 
 [1
 
 {C:/Users/bryam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./logo UPS.png> <./Posgrados.png>] [2]
-<med.png, id=18, 504.4446pt x 260.8947pt>
+<med.png, id=17, 504.4446pt x 260.8947pt>
 File: med.png Graphic file (type png)
 <use med.png>
-Package pdftex.def Info: med.png  used on input line 127.
+Package pdftex.def Info: med.png  used on input line 131.
 (pdftex.def)             Requested size: 409.72124pt x 211.90474pt.
- [3 <./med.png>] [4] (main.bbl [5]) [6] (main.aux
-LaTeX Info: Redefining \. on input line 7.
-LaTeX Info: Redefining \% on input line 7.
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+ [3 <./med.png>] [4] (main.bbl) [5] (main.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 )
  ***********
 LaTeX2e <2023-06-01> patch level 1
@@ -503,17 +542,17 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16566 strings out of 475248
- 355376 string characters out of 5757813
+ 17903 strings out of 475248
+ 397704 string characters out of 5757813
  1940801 words of memory out of 5000000
- 37828 multiletter control sequences out of 15000+600000
+ 39132 multiletter control sequences out of 15000+600000
  560841 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 117i,7n,121p,909b,832s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (6 pages, 254316 bytes).
+ 117i,7n,121p,996b,836s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main.pdf (5 pages, 239430 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  28 words of extra memory for PDF output out of 10000 (max. 10000000)
 

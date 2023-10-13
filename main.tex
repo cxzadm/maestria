@@ -6,9 +6,14 @@
 \usepackage{apacite}
 \usepackage{pgfgantt}
 \usepackage{pgfcalendar}
+\usepackage{xcolor}
+\usetikzlibrary{shapes}
+\definecolor{colorGrupo}{RGB}{36, 85, 112}  % Color rojo (cambia los valores RGB según tus preferencias)
+\definecolor{colorSubGrupo}{RGB}{109, 141, 159}
 
 
 \bibliographystyle{apacite}
+%\bibliographystyle{abbrvnat}
 \setlength{\textwidth}{18cm}
 \setlength{\oddsidemargin}{-1cm}
 \setlength{\headsep}{-1cm}
@@ -63,7 +68,7 @@
 
 \section{Tema del Trabajo de Titulación:  }
 \begin{center}
-Análisis, Desarrollo y Migración a un nuevo sistema contable para la empresa Accescont 
+Analizar, desarrollar y prototipar los módulos de clientes y proveedores del sistema contable de la empresa Accescont en la ciudad de Cuenca, analizando los requerimientos financieros de la empresa y usando la modularización de las funcionalidades para facilitar su acoplamiento a un sistema contable más completo que el que dispone actualmente la empresa.    
 \end{center}
 \section{Docente tutor propuesto:   }
 \begin{center}
@@ -71,30 +76,29 @@ Asignar Tutor
 \end{center}
 \section{Antecedentes}
 
-En el actual entorno empresarial, la tecnología de la información y los sistemas contables desempeñan un papel fundamental en el éxito y la eficiencia de las organizaciones. En este contexto, Accescont, una destacada firma de auditoría financiera con sede en Cuenca, Ecuador, se enfrenta a desafíos significativos debido a las limitaciones y obsolescencia de su sistema contable actual. Este sistema ha quedado rezagado en términos de funcionalidades y seguridad, lo que dificulta su capacidad para adaptarse a las crecientes necesidades de la empresa y la incorporación de nuevos módulos contables.
+En el contexto empresarial actual, la tecnología de la información y los sistemas contables desempeñan un papel crítico para el éxito y la eficiencia de las organizaciones. Accescont, una firma de auditoría financiera con más de 35 años de experiencia con sede en Cuenca, Ecuador, se enfrenta a desafíos significativos debido a las limitaciones y la obsolescencia de su sistema contable actual \cite{CatacoraSI}.
 
-El principal problema de este sistema es su arquitectura monolítica, que ha sido objeto de modificaciones a lo largo de los años para satisfacer las necesidades cambiantes de la empresa. Sin embargo, estas modificaciones han llevado a una degradación significativa del código, lo que podría comprometer el sistema en caso de necesitar más cambios. En consecuencia, la empresa se ha visto en la necesidad de implementar un nuevo sistema de manera ágil, sin afectar a sus clientes.
+El principal problema radica en la arquitectura monolítica del sistema actual, que ha experimentado modificaciones a lo largo del tiempo para satisfacer las necesidades cambiantes de la empresa \cite{HallSIC}. Sin embargo, estas modificaciones han llevado a una degradación significativa del código, lo que podría comprometer aún más el sistema en caso de necesitar más cambios \cite{HorngrenCC}.
 
-El proyecto propuesto tiene como objetivo encontrar una solución integral y efectiva para fortalecer las operaciones contables de Accescont, especialmente en los módulos de clientes y proveedores. Esto se logrará mediante la implementación de nuevas herramientas, como los microservicios, que optimizarán la gestión financiera y contribuirán al crecimiento sostenible de la empresa. Además, este enfoque permitirá el escalado del sistema contable y posibles ampliaciones a otros módulos del sistema.
+Este proyecto se enmarca en la búsqueda de una solución integral y efectiva para fortalecer las operaciones contables de Accescont enfocándose en los módulos de manejo de clientes y proveedores \cite{GuajardoCF}. Los módulos buscarán superar los desafíos tecnológicos actuales mediante la implementación de nuevas herramientas, como los microservicios, que optimizarán la gestión financiera y contribuirán al crecimiento sostenible de la empresa \cite{WarrenRF}.
 
-Es importante destacar que el éxito de este proyecto de titulación depende en gran medida del trabajo colaborativo con los usuarios y las partes interesadas de Accescont, así como del cumplimiento de plazos y la ejecución efectiva de las fases planificadas. \cite{Smith2023}
+Es importante destacar que el éxito de este proyecto de titulación dependerá en gran medida de la colaboración efectiva con los usuarios y las partes interesadas de Accescont. También se hará hincapié en el cumplimiento de los plazos y la ejecución eficiente de las fases planificadas para garantizar el desarrollo efectivo de los módulos antes mencionados.
+
 
  %\lipsum[1-1]
        
- \section*{\textbf{Justificación del Tema de Trabajo de Titulación}}
+ \section{Justificación:}
 
- \begin{enumerate}
-     \item \textbf{Contexto y Relevancia:} En el contexto empresarial actual, la tecnología de la información y los sistemas contables desempeñan un papel crítico para el éxito y la eficiencia de las organizaciones. Accescont, una firma de auditoría financiera con más de 35 años de experiencia con sede en Cuenca, Ecuador, se enfrenta a desafíos significativos debido a las limitaciones y la obsolescencia de su sistema contable actual. Este sistema, que ha sido parte integral de la empresa durante años, ha quedado rezagado en términos de funcionalidad y seguridad, lo que dificulta su capacidad para adaptarse a las cambiantes necesidades empresariales y la incorporación de nuevos módulos contables.
+ En el contexto empresarial actual, la tecnología de la información y los sistemas contables desempeñan un papel crítico para el éxito y la eficiencia de las organizaciones. Accescont, una firma de auditoría financiera con más de 35 años de experiencia con sede en Cuenca, Ecuador, se enfrenta a desafíos significativos debido a las limitaciones y la obsolescencia de su sistema contable actual. Este sistema, que ha sido parte integral de la empresa durante años, ha quedado rezagado en términos de funcionalidad y seguridad, lo que dificulta su capacidad para adaptarse a las cambiantes necesidades empresariales y la incorporación de nuevos módulos contables, en especial los módulos de manejo de clientes y proveedores. Por lo tanto, el presente proyecto se enmarca dentro de esta problemática.
  
-     \item \textbf{Problema de la Arquitectura Monolítica:} El principal problema radica en la arquitectura monolítica del sistema actual, que ha experimentado modificaciones a lo largo del tiempo para satisfacer las necesidades cambiantes de la empresa. Sin embargo, estas modificaciones han llevado a una degradación significativa del código, lo que podría comprometer aún más el sistema en caso de necesitar más cambios. Como resultado, la empresa reconoce la necesidad urgente de implementar un nuevo sistema contable sin afectar a sus clientes existentes.
+ El principal problema radica en la arquitectura monolítica del sistema actual, que ha experimentado modificaciones a lo largo del tiempo para satisfacer las necesidades cambiantes de la empresa. Sin embargo, estas modificaciones han llevado a una degradación significativa del código, lo que podría comprometer aún más el sistema en caso de necesitar más cambios. Como resultado, la empresa reconoce la necesidad urgente de implementar un nuevo sistema contable sin afectar a sus clientes existentes.
  
-     \item \textbf{Objetivos del Proyecto:} El proyecto propuesto se enmarca en la búsqueda de una solución integral y efectiva para fortalecer las operaciones contables de Accescont, especialmente en los módulos de clientes y proveedores. Se busca superar los desafíos tecnológicos actuales mediante la implementación de nuevas herramientas, como los microservicios, que optimizarán la gestión financiera y contribuirán al crecimiento sostenible de la empresa. Además, este enfoque permitirá el escalado del sistema contable y posibles expansiones a otros módulos del sistema.
+ En base a esta problemática, este proyecto se enmarca en la búsqueda de una solución integral y efectiva para fortalecer las operaciones contables de Accescont, enfocándose en los dos módulos cuyo desarrollo es lo más importante dentro del sistema. Estos módulos buscarán superar los desafíos tecnológicos actuales mediante la implementación de nuevas herramientas, como los microservicios, que optimizarán la gestión financiera y contribuirán al crecimiento sostenible de la empresa. Además, este enfoque permitirá el escalamiento y adaptación del sistema con la agregación de otros módulos.
  
-     \item \textbf{Colaboración y Cumplimiento de Plazos:} Es importante destacar que el éxito de este proyecto de titulación dependerá en gran medida de la colaboración efectiva con los usuarios y las partes interesadas de Accescont. También se hará hincapié en el cumplimiento de los plazos y la ejecución eficiente de las fases planificadas para garantizar la implementación exitosa del nuevo sistema.
+ Es importante destacar que el éxito de este proyecto de titulación dependerá en gran medida de la colaboración efectiva con los usuarios y las partes interesadas de Accescont. También se hará hincapié en el cumplimiento de los plazos y la ejecución eficiente de las fases planificadas para garantizar el desarrollo efectivo de los módulos antes mencionados.
  
- \end{enumerate}
+ En resumen, este trabajo de titulación busca abordar una problemática real en el ámbito empresarial. Accescont se enfrenta a desafíos tecnológicos y de usabilidad con su sistema contable actual, y el proyecto propuesto tiene como objetivo superar estos desafíos mediante la implementación de una solución innovadora y escalable. La colaboración con los stakeholders y el cumplimiento de los plazos son elementos clave para el éxito de este proyecto y su contribución al crecimiento y competitividad de Accescont en el mercado.
  
- En resumen, este trabajo de titulación busca abordar una problemática real en el ámbito empresarial. Accescont se enfrenta a desafíos tecnológicos y de usabilidad con su sistema contable actual, y el proyecto propuesto tiene como objetivo superar estos desafíos mediante la implementación de una solución innovadora y escalable. La colaboración con los stakeholders y el cumplimiento de los plazos son elementos clave para el éxito de este proyecto y su contribución al crecimiento y competitividad de Accescont en el mercado. 
 
 \section{Objetivos:}
 
@@ -105,13 +109,13 @@ Analizar, desarrollar y migrar los módulos de clientes y proveedores del sistem
 \subsection{Objetivos Específicos}
 
 \begin{enumerate}
-    \item Analizar los requerimientos para los módulos del nuevo sistema contable con la participación de los usuarios y partes interesadas, aplicando la metodología SCRUM y posteriormente desarrollar un sistema contable ajustado a las necesidades detectadas en los requerimientos.
+    \item Analizar los requerimientos para los módulos del nuevo sistema contable con la participación de los usuarios y partes interesadas, aplicando técnicas asociadas a la metodología SCRUM, para definir las funcionalidades y características que tendría cada módulo.  
     
-    \item Planificar el desarrollo de los módulos en etapas, para controlar el avance del proyecto y cumplir con los tiempos establecidos en el cronograma.
+    \item Planificar el desarrollo de los módulos en etapas, según la metodología SCRUM junto con los colaboradores involucrados, para controlar el avance del proyecto y el cumplimiento de los requisitos planteados para los módulos.
     
-    \item Desarrollar los módulos de clientes y proveedores para el sistema contable que cumpla con los requisitos identificados, usando metodologías ágiles de desarrollo de software con el propósito de acoplarlos con otras funcionalidades que tendría el sistema completo.
+    \item Desarrollar los módulos de clientes y proveedores para el sistema contable que cumpla con los requisitos identificados, usando metodologías ágiles de desarrollo de software con el propósito de que los módulos sean adaptables y escalables para un posterior crecimiento del sistema contable.  
     
-    \item Realizar pruebas para garantizar la calidad y funcionalidad de los módulos desarrollados, usando pruebas de validación y criterios de aceptación, para asegurar que el sistema funcione acorde a las necesidades de las partes interesadas.
+    \item Evaluar el desarrollo de los módulos pruebas para garantizar su calidad y funcionalidad de los usando pruebas de validación y usabilidad, para asegurar que el sistema funcione acorde a los objetivos y requisitos planteados.  
 \end{enumerate}
 
 
@@ -120,7 +124,7 @@ El proyecto consiste en Analizar, desarrollar y migrar los módulos de clientes 
 
 \section{Metodología}
 
-En esta sección se describe la metodología que se seguirá para lograr los objetivos específicos del proyecto. Se detalla cómo se abordarán cada uno de los objetivos para alcanzar el objetivo general.
+Con la finalidad de cumplir con los objetivos específicos planteados en el presente documento, se ha decidido implementar metodologías agiles, lo cual permite un dividir el proyecto en pequeñas fases, con objetivos bien definidos y así lograr el desarrollo correcto de los módulos desarrollados.  
 
 \begin{figure}[h]
     \centering
@@ -168,7 +172,6 @@ Para alcanzar el cuarto objetivo específico, que consiste en realizar pruebas d
     \item Se realizarán pruebas exhaustivas de funcionalidad, rendimiento y seguridad para garantizar la calidad del sistema.
 \end{itemize}
 \section{Cronograma de Actividades}
-
 En esta sección se presenta el cronograma de actividades planificado para el desarrollo del proyecto. El cronograma detalla las tareas a realizar, los responsables de cada tarea y las fechas de inicio y finalización.
 
 \begin{ganttchart}[
@@ -189,32 +192,30 @@ En esta sección se presenta el cronograma de actividades planificado para el de
     milestone height=0.8, % Altura de los hitos
     milestone label font=\small,
     bar top shift=0.2, % Ajusta la posición vertical de las tareas
-    bar/.append style={draw=none, fill=blue!90}, % Estilo de las barras
+    bar/.append style={draw=none, fill=colorSubGrupo}, % Estilo de las barras
     milestone/.append style={draw=none, fill=red}, % Estilo de los hitos
+    group/.append style={draw=none, fill=colorGrupo},
     ]{2023-10-01}{2024-03-31}
     
     % Cambia las fechas a semanas
     \gantttitlecalendar{year, month=week} \\
     
-    \ganttbar{Reuniones iniciales}{2023-10-01}{2023-10-07} \\
-    \ganttbar{Análisis de requerimientos}{2023-10-08}{2023-10-14} \\
-    \ganttbar{Planificación del desarrollo}{2023-10-15}{2023-10-21} \\
-    \ganttbar{Desarrollo de módulos}{2023-10-22}{2023-10-28} \\
-    \ganttbar{Pruebas de validación}{2023-10-29}{2023-11-04} \\
-    \ganttbar{Pruebas de rendimiento}{2023-11-05}{2023-11-11} \\
-    \ganttbar{Evaluación final}{2023-11-12}{2023-11-18} \\
-    \ganttbar{Documentación final}{2023-11-19}{2023-11-25} \\
-    \ganttbar{Presentación del proyecto}{2023-11-26}{2023-12-02} \\
-    \ganttnewline[thick, blue]
-    
-    \ganttbar{Reuniones semanales}{2023-10-01}{2023-12-02} \\
-    \ganttbar{Revisión intermedia}{2023-11-12}{2023-11-18} \\
-    \ganttbar{Presentación final}{2023-12-01}{2024-03-31} \\
+    % Aquí se incluyen los objetivos específicos en el cronograma
+    \ganttgroup{Objetivo 1}{2023-10-01}{2023-11-12} \\
+    \ganttbar{Analizar requerimientos}{2023-10-01}{2023-11-12} \\
+
+    \ganttgroup{Objetivo 2}{2023-11-13}{2023-12-24}  \\
+    \ganttbar{Analizar requerimientos}{2023-11-13}{2023-12-24} \\
+
+    \ganttgroup{Objetivo 3}{2023-12-25}{2024-02-05} \\
+    \ganttbar{Analizar requerimientos}{2023-12-25}{2024-02-05} \\
+
+    \ganttgroup{Objetivo 4}{2024-02-06}{2024-03-31} \\
+    \ganttbar{Analizar requerimientos}{2024-02-06}{2024-03-31} \\
+       
 \end{ganttchart}
 
-\section{Presupuesto: (Opcional)}
 
-Este apartado incluirá los recursos e información financiera para el Trabajo de Titulación. 
 %\bibliographystyle{abbrv}
 %apacite
 
@@ -223,7 +224,5 @@ Este apartado incluirá los recursos e información financiera para el Trabajo d
 \bibliography{sample}
 
 \vspace{1cm}
-Este apartado contiene el listado de referencias empleadas para la elaboración del documento, de preferencia en formato APA u otros formatos Preconocidos.
-
 
 \end{document}

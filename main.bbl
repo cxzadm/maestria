@@ -1,27 +1,115 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Smith%
+Cantú%
 }{%
-Smith%
+Cantú%
 }{%
-{\protect \APACyear {2023}}%
+{\protect \APACyear {2018}}%
 }]{%
-Smith2023}
+GuajardoCF}
 \APACinsertmetastar {%
-Smith2023}%
+GuajardoCF}%
 \begin{APACrefauthors}%
-Smith, J.%
+Cantú, G\BPBI G.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2023}{}{}.
+\APACrefYear{2018}.
 \newblock
-{\BBOQ}\APACrefatitle {El impacto de los sistemas contables modulares en la
-  eficiencia empresarial} {El impacto de los sistemas contables modulares en la
-  eficiencia empresarial}.{\BBCQ}
+\APACrefbtitle {Contabilidad Financiera} {Contabilidad financiera}.
 \newblock
-\APACjournalVolNumPages{Revista de Contabilidad}{45}{}{123-135}.
+\APACaddressPublisher{México, D.F.}{Editorial McGraw-Hill}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Catacora%
+}{%
+Catacora%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+CatacoraSI}
+\APACinsertmetastar {%
+CatacoraSI}%
+\begin{APACrefauthors}%
+Catacora, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Sistemas de Información Contable} {Sistemas de información
+  contable}.
+\newblock
+\APACaddressPublisher{México, D.F.}{Editorial Prentice Hall}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hall%
+}{%
+Hall%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+HallSIC}
+\APACinsertmetastar {%
+HallSIC}%
+\begin{APACrefauthors}%
+Hall, J\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2010}.
+\newblock
+\APACrefbtitle {Sistemas de Información Contable: Un Enfoque Práctico}
+  {Sistemas de información contable: Un enfoque práctico}.
+\newblock
+\APACaddressPublisher{México, D.F.}{Editorial Cengage Learning}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Horngren%
+}{%
+Horngren%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+HorngrenCC}
+\APACinsertmetastar {%
+HorngrenCC}%
+\begin{APACrefauthors}%
+Horngren, C\BPBI T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {Contabilidad de Costos} {Contabilidad de costos}.
+\newblock
+\APACaddressPublisher{México, D.F.}{Editorial Pearson}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Warren%
+}{%
+Warren%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+WarrenRF}
+\APACinsertmetastar {%
+WarrenRF}%
+\begin{APACrefauthors}%
+Warren, y\BPBI D., Reeve.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Contabilidad Financiera} {Contabilidad financiera}.
+\newblock
+\APACaddressPublisher{México, D.F.}{Editorial Cengage Learning}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
