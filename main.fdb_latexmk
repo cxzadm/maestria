@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1697170851 "main.aux" "main.bbl" "main" 1697170855 0
+["bibtex main"] 1697262725 "main.aux" "main.bbl" "main" 1697262729 0
   "./sample.bib" 1697169518 1299 4d36f7cc381249d7a379d7a3b3df57b9 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "main.aux" 1697170853 2925 c0890561577b292b8cf9ae720fa20ff3 "pdflatex"
+  "main.aux" 1697262728 2925 c0890561577b292b8cf9ae720fa20ff3 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1697170851 "d:/disco/OneDrive - Universidad Politecnica Salesiana/documentos/Maestria/Maestria Software/03 METODOLOGÍA DE LA INVESTIGACIÓN/anteproyecto/maestria/main.tex" "main.pdf" "main" 1697170855 0
+["pdflatex"] 1697262726 "d:/disco/OneDrive - Universidad Politecnica Salesiana/documentos/Maestria/Maestria Software/03 METODOLOGÍA DE LA INVESTIGACIÓN/anteproyecto/maestria/main.tex" "main.pdf" "main" 1697262729 0
   "C:/Users/bryam/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1697170379 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/bryam/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1694893379 24142036 9e2d26d6c1240b556f171b687e0dadb4 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -138,11 +138,11 @@
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686255640 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/bryam/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Posgrados.png" 1694496190 22697 443fcda41fd2efb3919af04ae67802fa ""
-  "d:/disco/OneDrive - Universidad Politecnica Salesiana/documentos/Maestria/Maestria Software/03 METODOLOGÍA DE LA INVESTIGACIÓN/anteproyecto/maestria/main.tex" 1697170844 14092 04a5ac5782225df0e9bb3f2a68ba577c ""
+  "d:/disco/OneDrive - Universidad Politecnica Salesiana/documentos/Maestria/Maestria Software/03 METODOLOGÍA DE LA INVESTIGACIÓN/anteproyecto/maestria/main.tex" 1697262720 14084 934405d62bf85aa370368f320cd2e0f6 ""
   "logo UPS.png" 1694496190 9327 712802ba714f3f49573442564f985db9 ""
-  "main.aux" 1697170853 2925 c0890561577b292b8cf9ae720fa20ff3 "pdflatex"
-  "main.bbl" 1697170851 2385 02ced815cf0c993d397b86455c01e413 "bibtex main"
-  "main.tex" 1697170844 14092 04a5ac5782225df0e9bb3f2a68ba577c ""
+  "main.aux" 1697262728 2925 c0890561577b292b8cf9ae720fa20ff3 "pdflatex"
+  "main.bbl" 1697262726 2385 02ced815cf0c993d397b86455c01e413 "bibtex main"
+  "main.tex" 1697262720 14084 934405d62bf85aa370368f320cd2e0f6 ""
   "med.png" 1694564071 125524 d85d498ca1eee3a7b51e277c9de96748 ""
   (generated)
   "main.aux"
