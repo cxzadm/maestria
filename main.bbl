@@ -1,28 +1,6 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Cantú%
-}{%
-Cantú%
-}{%
-{\protect \APACyear {2018}}%
-}]{%
-GuajardoCF}
-\APACinsertmetastar {%
-GuajardoCF}%
-\begin{APACrefauthors}%
-Cantú, G\BPBI G.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2018}.
-\newblock
-\APACrefbtitle {Contabilidad Financiera} {Contabilidad financiera}.
-\newblock
-\APACaddressPublisher{México, D.F.}{Editorial McGraw-Hill}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
 Catacora%
 }{%
 Catacora%
@@ -88,28 +66,6 @@ Horngren, C\BPBI T.%
 \APACrefbtitle {Contabilidad de Costos} {Contabilidad de costos}.
 \newblock
 \APACaddressPublisher{México, D.F.}{Editorial Pearson}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Warren%
-}{%
-Warren%
-}{%
-{\protect \APACyear {2013}}%
-}]{%
-WarrenRF}
-\APACinsertmetastar {%
-WarrenRF}%
-\begin{APACrefauthors}%
-Warren, y\BPBI D., Reeve.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYear{2013}.
-\newblock
-\APACrefbtitle {Contabilidad Financiera} {Contabilidad financiera}.
-\newblock
-\APACaddressPublisher{México, D.F.}{Editorial Cengage Learning}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
